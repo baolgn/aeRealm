@@ -52,9 +52,9 @@ Before installing, ensure you have the following installed on your system:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 ## Setting Up the Project<a name="setting-up-the-project"></a>
-- Clone the repository: `git clone https://github.com/your-username/aerealm.git`
-- Navigate to the project directory: `cd aerealm`
-- Install dependencies: `npm install`
+- Clone the repository: `git clone https://github.com/baolgn/aeRealm`
+- Navigate to the project directory: `cd aeRealm`
+- Install dependencies: `npm install express socket.io-client`
 
 <br>
 
