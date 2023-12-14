@@ -109,7 +109,7 @@ Visit http://localhost:3000 in your web browser to access aeRealm.
 2. __Database Connection__: Ensure the database connection details are correct.
 ## Contact Information<a name="contact-information"></a>
 For further assistance or inquiries, please contact:
-- bluto
+- @baolgn
 - bao.lgn2005@gmail.com
 
 <br>
